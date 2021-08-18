@@ -1,0 +1,9 @@
+﻿COMP|T|000009|2020-08-20T17:48:17|30700|T||||0||0|MXN|||||CFDI de traslado|||
+E|NLC091211KC6|TECNICA AGRICOLA CHIAPAS SA DE CV|601||
+R|TAC740725927|TECNICA AGRICOLA CHIAPAS SA DE CV|P01||||||
+C|0|10171601|XSA|75.00|H87|Pieza|Yaraliva Calcinit; 25 kgs|0|0||||||||
+C|1|10171702||600.00|H87|Pieza|AgroPen; 950 mls|0|0||||||||
+C|2|10171700||600.00|H87|Pieza|.AgroCin 20; 240 mls|0|0||||||||
+LeyendasFiscales|1.0|
+LeyendasFiscLeyenda|CFDI TRASLADOS|REGLA 2.7.1.26 RMF 2020|02. Reubicación de Mercancia Propia|
+FIN|

@@ -1,0 +1,9 @@
+RETENCION|05||0001
+E|NT LINK COMUNICACIONES S.A. DE C.V.|NLC091211KC6|
+R|Nacional| (NO UTILIZAR)2|RFCRecep|CURPR|NumRegIdTrib||
+P|1|2|2018
+Totales|200|100|300|100
+ImpRetenidos|100|01|Pago definitivo|200
+DIV|
+DividOUtil|01|100|100|100|Sociedad Nacional|200|200|
+FIN|

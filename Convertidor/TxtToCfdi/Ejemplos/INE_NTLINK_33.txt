@@ -1,0 +1,15 @@
+﻿COMP|INE|0001|2021-06-01T11:03:00|86690|I|01|PUE|Contado|100.56||116.65|MXN|||Leyenda 1|Leyenda 2|FACTURA|pie pagina 1|pie pagina 2
+E|NLC091211KC6|NT LINK COMUNICACIONES S.A. DE C.V.|601|direccion fiscal emisor|
+R|XAXX010101000|Empresa Receptora|G03|||soporte@ntlink.com.mx||direccion fiscal receptor|
+C|1|12162003|10498|1.0|H87|PZA|ACEITE TREBOL BIDóN 20L|100.56|100.56|||detalles\linea2\linea3\linea4||||
+ITC|1|100.56|002|Tasa|0.160000|16.09|
+IT|002|Tasa|0.160000|16.09|
+TIMP|16.09||
+AD|1|2|3|4|5|6|7|8|9|10|11|12|13|14|
+INE|1.1|Campaña|||
+EntidadINE|1|OAX|Local|
+EntidadINE|2|GUA|Local|
+ContabilidadINE|1|23
+ContabilidadINE|2|235
+
+FIN|

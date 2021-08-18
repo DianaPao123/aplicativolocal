@@ -1,0 +1,6 @@
+COMP|S|0001|2018-01-22T10:33:00|86690|I|01|PUE|FR Contado|0.46||0.46|MXN|||Leyenda 1|Leyenda 2|FACTURA|pie pagina 1|pie pagina 2
+E|LAN7008173R5|CINDEMEX SA DE CV|601|
+R|XAXX010101000|Razon Social de prueba|G03|||soporte@ntlink.com.mx|||
+C|1|12162003|10498|1.0|H87|PZA|ACEITE TREBOL BIDON 20L|0.46|0.46|||detalles\linea2|campo1|campo2|campo3|
+DatosNadro|4200331668|75|3482|1|288|7501109790524
+FIN|

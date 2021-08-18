@@ -1,0 +1,38 @@
+COMP|MPH|1000814|2018-05-07T12:05:25|14210|I||||84681.15|0.00|85930.18|MXN|1||Basado en Entregas 136.||FACTURA DE CLIENTES||Este documento es una representación impresa de un CFDI|
+E|NLC091211KC6|Meda Pharma S. de R.L. de C.V.|601|PICO DE VERAPAZ NO. 435 INT. 302 JARDINES EN LA MONTAÑA C.P. 14210 TLALPAN CIUDAD DE MÉXICO, MEXICO|
+R|NAD901023GRA|NADRO, S.A.P.I. DE C.V.|G01||||Cecilia.zamora@mylan.com; Dayna.guevara@mylan.com|Calle Av. Vasco de Quiroga No. 3100 \COL. Colonia De Ciudad Santa Fe DEL./MPIO. Colonia De Ciudad Sa|
+C|0|51142100|4019338605135|10.00|H87|Pieza|Rantudil 60 mg. con 14 capsulas|189.77|1897.70|0.00||Cantidad: 10.00 Lote del Producto: 3804921 Caducidad: 31/05/2019 Pedimento: 17  47  3496  7013664 Aduana: AICM Fecha: 01/09/2017 \ |
+C|1|51142125|7501303441383|110.00|H87|Pieza|Metotrop IM 1g 1 X 2 ML|84.41|9285.10|0.00||Cantidad: 110.00 Lote del Producto: XB30J12 Caducidad: 31/03/2020 \ |
+C|2|51241200|4019338348254|30.00|H87|Pieza|Kamillosan crema 20 gr|121.38|3641.40|0.00||Cantidad: 30.00 Lote del Producto: 321420 Caducidad: 30/04/2019 Pedimento: 17  43  3020  7004311 Aduana: Veracruz Fecha: 13/07/2017 \ |
+C|3|51142125|4019338605869|50.00|H87|Pieza|Metotrop Gel 40 grs|104.13|5206.50|0.00||Cantidad: 50.00 Lote del Producto: 3811791 Caducidad: 31/08/2019 Pedimento: 17  43  3020  7008109 Aduana: Veracruz Fecha: 07/12/2017 \ |
+C|4|53131602|4019338604954|30.00|H87|Pieza|Linicin Loción Fco 100 ml|115.22|3456.60|0.00||Cantidad: 30.00 Lote del Producto: 60887309 Caducidad: 31/05/2019 Pedimento: 16  16  3496  6001944 Aduana: Manzanillo Fecha: 23/06/2016 \ |
+C|5|53131602|4019338604978|10.00|H87|Pieza|Linicin Prevent Spray 100 ml|111.52|1115.20|0.00||Cantidad: 10.00 Lote del Producto: 1604470 Caducidad: 31/05/2019 Pedimento: 16  43  3020  6006704 Aduana: Veracruz Fecha: 21/10/2016 \ |
+C|6|53131602|4019338604961|30.00|H87|Pieza|Linicin Shampoo Fco 100 ml|107.82|3234.60|0.00||Cantidad: 30.00 Lote del Producto: 1604675/1 Caducidad: 08/06/2019 Pedimento: 16  43  3020  6006709 Aduana: Veracruz Fecha: 27/10/2016 \ |
+C|7|51142100|4019338605159|45.00|H87|Pieza|Rantudil Retard 90 mg. con 14 capsulas|310.53|13973.85|0.00||Cantidad: 45.00 Lote del Producto: 3814791 Caducidad: 30/11/2019 Pedimento: 18  47  3496  8008394 Aduana: AICM \ |
+C|8|51142100|4019338605166|35.00|H87|Pieza|Rantudil Retard 90 mg. con 28 capsulas|515.08|18027.80|0.00||Cantidad: 35.00 Lote del Producto: 3814831 Caducidad: 31/08/2019 Pedimento: 18  47  3496  8008395 Aduana: AICM \ |
+C|9|51142100|4019338605142|80.00|H87|Pieza|Rantudil 60 mg. con 28 capsulas|310.53|24842.40|0.00||Cantidad: 80.00 Lote del Producto: 3804931 Caducidad: 31/08/2019 Pedimento: 17  47  3496  7015683 Aduana: AICM Fecha: 29/12/2017 \ |
+ITC|0|1897.70|002|Tasa|0.000000|0.00|
+ITC|1|9285.10|002|Tasa|0.000000|0.00|
+ITC|2|3641.40|002|Tasa|0.000000|0.00|
+ITC|3|5206.50|002|Tasa|0.000000|0.00|
+ITC|4|3456.60|002|Tasa|0.160000|553.06|
+ITC|5|1115.20|002|Tasa|0.160000|178.43|
+ITC|6|3234.60|002|Tasa|0.160000|517.54|
+ITC|7|13973.85|002|Tasa|0.000000|0.00|
+ITC|8|18027.80|002|Tasa|0.000000|0.00|
+ITC|9|24842.40|002|Tasa|0.000000|0.00|
+IT|002|Tasa|0.000000|0.00|
+IT|002|Tasa|0.160000|1249.03|
+TIMP|1249.03|0.00|
+AD|NADRO, S.A.P.I. DE C.V. SUC MEXICO SUR: |714||Avenida Once, No. 714, , Col: San Nicolás Tolentino, Iztapalapa|Iztapalapa|Ciudad de México|MX|MX, Ciudad de México, C.P. 09850|Fecha de pago: 03/07/2018|N° de pedido de cliente: 0144581191|Días de crédito: 60 Días|Tel. Cliente: 52924343||-Ningún empleado del departamento de ventas-|
+DatosNadro|0144581191|60 ||1|189.77|4019338605135|
+DatosNadro|0144581191|60 ||2|84.41|7501303441383|
+DatosNadro|0144581191|60 ||3|121.38|4019338348254|
+DatosNadro|0144581191|60 ||4|104.13|4019338605869|
+DatosNadro|0144581191|60 ||5|115.22|4019338604954|
+DatosNadro|0144581191|60 ||6|111.52|4019338604978|
+DatosNadro|0144581191|60 ||7|107.82|4019338604961|
+DatosNadro|0144581191|60 ||8|310.53|4019338605159|
+DatosNadro|0144581191|60 ||9|515.08|4019338605166|
+DatosNadro|0144581191|60 ||10|310.53|4019338605142|
+FIN|

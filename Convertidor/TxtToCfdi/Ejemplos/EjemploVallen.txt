@@ -1,0 +1,14 @@
+COMP|FAE|1040|2016-01-19T10:21:07|NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO, MEXICO|INGRESO|PAGO EN UNA SOLA EXHIBICION|Transferencia|Scotiabank|3878.66|0.00|4499.25|MXN|1.00|AAD990814BP7|Observaciones:   TEXTO LIBRE||FACTURA|Campo para Pie de Página Primario|Campo para Pie de Página Secundario|||
+E|CHO1006237R4|FAE ALTA VERTICAL,  S.A.  DE C.V.|Persona Moral en régimen general|
+DE|CIRCUITO GEÓGRAFOS|21|INT 6|.|NAUCALPAN DE JUÁREZ|ESTADO DE MÉXICO|MEXICO|53100|
+EE|CIRCUITO GEÓGRAFOS|21|INT 6|.|NAUCALPAN DE JUÁREZ|ESTADO DE MÉXICO|MEXICO|53100|
+R|PXC8603204D1|PROMOTORA XCARET, S.A. DE C.V.||soporte@ntlink.com.mx
+DR|KM 282 CARRETERA CHETUMAL PTO. JUÁREZ|||Rancho Xcaret|Playa del Carmen|QUINTANA ROO|MEXICO|77710|SOLIDARIDAD
+C|010488-544-M|PIEZA|XENITH 88 mochila, talla M, color gris|1.000|3878.66|3878.66|MARCA:Osprey|{marca=Osprey;numero=G10;fecha=2015-04-01;aduana=47}|Lote del Producto: G10       Caducidad:2015-04-01|||
+IT|IVA|16|620.59
+AD|Entrega 1: Km 282 Carretera Chetumal Pto. Juárez||||Rancho Xcaret|Solidaridad|Quintana Roo|77710| |Crédito:  60 Días||REFERENCIA 1|C000079|
+requestForPayment|2015-05-15|ORIGINAL|VALLEN7.1|1.3.1|SimpleInvoiceType
+referenceIdentification|MAT-0000000013|ON
+referenceIdentification|MAT-0000000014|ON
+currency|MXN|destino de pruebas
+FIN|

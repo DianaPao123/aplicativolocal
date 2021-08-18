@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a0edf7d4-78b9-4b2c-9241-b90a30d43204" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:2700/ServicioTimbrado.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicioTimbrado2.wsdl" MetadataType="Wsdl" ID="8dc4fe20-8ba1-4c44-9f1f-2473bbad91b5" SourceId="1" SourceUrl="http://localhost:2700/ServicioTimbrado.svc?wsdl" />
+    <MetadataFile FileName="ServicioTimbrado4.xsd" MetadataType="Schema" ID="a7ab1aec-dbd2-400e-9e7b-6f53afec4ee4" SourceId="1" SourceUrl="http://localhost:2700/ServicioTimbrado.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicioTimbrado41.xsd" MetadataType="Schema" ID="56ae0ebf-503c-45af-89cd-06c7c58c1a92" SourceId="1" SourceUrl="http://localhost:2700/ServicioTimbrado.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicioTimbrado1.disco" MetadataType="Disco" ID="bb8c3e7f-8885-40c6-a771-543d43a6dee5" SourceId="1" SourceUrl="http://localhost:2700/ServicioTimbrado.svc?disco" />
+    <MetadataFile FileName="ServicioTimbrado42.xsd" MetadataType="Schema" ID="3eccaf83-df92-438c-a175-618277c80f28" SourceId="1" SourceUrl="http://localhost:2700/ServicioTimbrado.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServicioTimbrado21.wsdl" MetadataType="Wsdl" ID="b744b76e-1d98-4b2e-b897-847d51cbeddc" SourceId="1" SourceUrl="http://localhost:2700/ServicioTimbrado.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="ServicioTimbrado43.xsd" MetadataType="Schema" ID="ca06153c-73ac-4e5d-bc3b-7bfc27374478" SourceId="1" SourceUrl="http://localhost:2700/ServicioTimbrado.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
